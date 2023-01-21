@@ -3,7 +3,7 @@ var swiper = new Swiper(".scroll", {
     cssMode: true,
     loop: true,
     autoplay: {
-        delay: 3000,
+        delay: 1700,
     },
     navigation: {
         nextEl: ".swiper-button-next",
@@ -40,7 +40,7 @@ var card = new Swiper(".card", {
     cssMode: true,
     loop: true,
     autoplay: {
-        delay: 3000,
+        delay: 1500,
     },
     navigation: {
         nextEl: ".swiper-button-next",
